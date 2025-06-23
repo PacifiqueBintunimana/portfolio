@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project d",
+    "imageSrc": "projects/sensor.png",
+    "description": "This is a project made to learn the latest languages by building an app by using flutter.",
+    "skills": ["flutter", "dart"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project E",
+    "imageSrc": "projects/food.png",
+    "description": "This is a project made to learn the latest languages by building an app by using react and spring boot api.",
+    "skills": ["springboot", "react","postgressql"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
